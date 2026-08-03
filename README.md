@@ -392,4 +392,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mjkrupal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mjkrupal/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
