@@ -49,6 +49,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mjkrupal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0705-design-hashset](https://github.com/mjkrupal/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mjkrupal/LeetCode/tree/master/0706-design-hashmap) |
 | [0867-transpose-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mjkrupal/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -98,6 +99,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mjkrupal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mjkrupal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/mjkrupal/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mjkrupal/LeetCode/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mjkrupal/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -172,6 +174,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mjkrupal/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mjkrupal/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/mjkrupal/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mjkrupal/LeetCode/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -403,8 +406,10 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/mjkrupal/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mjkrupal/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/mjkrupal/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/mjkrupal/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
