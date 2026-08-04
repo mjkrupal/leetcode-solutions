@@ -48,6 +48,7 @@
 | [0485-max-consecutive-ones](https://github.com/mjkrupal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mjkrupal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mjkrupal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/mjkrupal/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mjkrupal/LeetCode/tree/master/0706-design-hashmap) |
 | [0867-transpose-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0867-transpose-matrix) |
@@ -199,6 +200,7 @@
 | [0367-valid-perfect-square](https://github.com/mjkrupal/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/mjkrupal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/mjkrupal/LeetCode/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mjkrupal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/mjkrupal/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mjkrupal/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -271,6 +273,7 @@
 | [0268-missing-number](https://github.com/mjkrupal/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mjkrupal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mjkrupal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/mjkrupal/LeetCode/tree/master/1200-minimum-absolute-difference) |
