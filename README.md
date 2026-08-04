@@ -59,6 +59,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mjkrupal/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mjkrupal/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mjkrupal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mjkrupal/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mjkrupal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -273,6 +274,7 @@
 | [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/mjkrupal/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mjkrupal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mjkrupal/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -412,4 +414,8 @@
 | ------- |
 | [0705-design-hashset](https://github.com/mjkrupal/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mjkrupal/LeetCode/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mjkrupal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
